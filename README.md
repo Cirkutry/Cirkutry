@@ -9,8 +9,8 @@
 ```fix
 Driven by a deep desire to excel in the development of software and to make a 
 meaningful impact through my work. My days are spent navigating through 
-documentation, tutorials and online courses, envisioning lines of code 
-transforming into useful utilities.
+documentation, tutorials and online courses, envisioning lines of code transforming 
+into useful utilities. Wish me luck ✨!
 ```
 
 ---
@@ -26,3 +26,7 @@ transforming into useful utilities.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cirkutry/Cirkutry/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid - snake animation!" src="https://raw.githubusercontent.com/Cirkutry/Cirkutry/output/github-contribution-grid-snake.svg">
 </picture>
+
+```
+![Visitor Count](https://profile-counter.glitch.me/cirkutry/count.svg)
+```
