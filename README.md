@@ -2,8 +2,21 @@
 
 ---
 
+
+<style>
+  p {
+    color: red;
+  }
+  .paragraph1 {
+    font-size: 18px;
+  }
+  .paragraph2 {
+    font-size: 13px;
+  }
+</style>
+
 Namaste 🙏!
-<p align="left" height="25">
+<p align="left" class="paragraph1">
 Driven by a deep desire to excel in the development of software and to make a meaningful impact through my work. My days are spent navigating through documentation, tutorials, and online courses, envisioning lines of code transforming into useful utilities.
 </p>
 
