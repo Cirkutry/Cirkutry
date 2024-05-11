@@ -6,6 +6,6 @@
   <img alt="GitHub contribution grid - snake animation!" src="https://raw.githubusercontent.com/Cirkutry/Cirkutry/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+| Language & Tools         | Learning         
+| :-----------: | :--------------: |
+| ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) | Text is centered |
