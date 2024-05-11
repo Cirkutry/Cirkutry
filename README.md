@@ -8,8 +8,9 @@
 
 ```fix
 Driven by a deep desire to excel in the development of software and to make a 
-meaningful impact through my work. My days are spent navigating through documentation, tutorials 
-and online courses, envisioning lines of code transforming into useful utilities.
+meaningful impact through my work. My days are spent navigating through 
+documentation, tutorials and online courses, envisioning lines of code 
+transforming into useful utilities.
 ```
 
 ---
