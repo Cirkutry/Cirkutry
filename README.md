@@ -27,6 +27,17 @@ into useful utilities. Wish me luck ✨!
   <img alt="GitHub contribution grid - snake animation!" src="https://raw.githubusercontent.com/Cirkutry/Cirkutry/output/github-contribution-grid-snake.svg">
 </picture>
 
-```
+
+
+
+
+<div align="center">
+
+Profile Views
+</div>
+
+<div align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/cirkutry/count.svg)
-```
+
+</div>
