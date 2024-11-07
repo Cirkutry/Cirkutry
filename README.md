@@ -13,7 +13,7 @@ documentation, tutorials and online courses, envisioning lines of code
 transforming into useful utilities. Wish me luck ✨!
 ```
 
----
+#
 
 | <img align='center' src="images/language.png" width="25"> Languages & Tools         | <img align='center' src="images/learning.png" width="25"> Learning         |
 | :-----------: | :--------------: |
@@ -36,6 +36,6 @@ Profile Views
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/cirkutry/count.svg)
+![](https://komarev.com/ghpvc/?username=cirkutry&style=for-the-badge&color=red)
 
 </div>
