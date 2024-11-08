@@ -1,8 +1,4 @@
-![Hi! I'm Cirkutry.](images/name.png)
-
-#
-
-<img align='right' src="images/pikachu.gif" width="230">
+![Hi! I'm Cirkutry.](images/name.png) <img align='right' src="images/cat-aaa.gif">
 
 ### Namaste `🙏`!
 
@@ -31,11 +27,9 @@ transforming into useful utilities. Wish me luck ✨!
 
 <div align="center">
 
-Profile Views
-</div>
+<!-- Base views from previous counter -->
+![](https://komarev.com/ghpvc/?username=cirkutry&style=for-the-badge&color=red&base=440)
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=cirkutry&style=for-the-badge&color=red)
+<small>Made with ❤</small>
 
 </div>
