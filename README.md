@@ -1,12 +1,14 @@
-# ![Hi! I'm Cirkutry.](images/name.png) 
+![Hi! I'm Cirkutry.](images/name.png)
+
+---
 
 <img align='right' src="images/cat-aaa.gif">
 
 Here to build random, possibly useless, but definitely awesome stuff.
 
-Open-source junkie (ironically most of my stuff is private 😭, spending way too long on supposedly simple projects, brain locked on getting it perfect (in the most unnecessary ways). One chaotic project at a time!
+Open-source junkie (ironically most of my stuff is private), spending way too long on supposedly simple projects, brain locked on getting it perfect (in the most unnecessary ways). One chaotic project at a time!
 
-#
+---
 
 #### Languages & Tools
 
@@ -20,11 +22,13 @@ Open-source junkie (ironically most of my stuff is private 😭, spending way to
   <img alt="GitHub contribution grid - snake animation!" src="https://raw.githubusercontent.com/Cirkutry/Cirkutry/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
+---
 
 <!-- Base views from previous counter -->
 ![](https://komarev.com/ghpvc/?username=cirkutry&style=for-the-badge&color=red&base=440)
 
-<small>Made with ❤ and ☕ </small>
+<small> Made with ❤ and ☕! </small>
+
+Contact: [![Discord]( https://img.shields.io/badge/DISCORD-7289da)](https://discord.com/users/787898769467375677)
 
 </div>
