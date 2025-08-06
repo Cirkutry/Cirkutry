@@ -6,8 +6,7 @@
 
 Here to build random, possibly useless, but definitely awesome stuff.
 
-Open-source junkie (ironically most of my stuff is private), spending way too long on supposedly simple projects, brain locked on getting it perfect (in the most unnecessary ways). One chaotic project at a time!
-
+Love contributing to random projects, spending way too long on presumably simple projects, absolutely locked in on getting it perfect (for better or worse).
 ---
 
 #### Check out my portfolio here: https://kre0lidge.is-a.dev/
